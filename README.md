@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning __Time Series Analysis with Python__
 - 💞️ I’m looking to collaborate on **Environmetal Data Analysis Projects**
 - 📫 How to reach me cpgarcia518@gmail.com
-- 🔗 How can you stay updated https://beacons.ai/cpgarcia518
+- 🔗 How to keep you updated https://beacons.ai/cpgarcia518
 
 <!---
 cpgarcia518/cpgarcia518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
