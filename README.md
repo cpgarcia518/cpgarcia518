@@ -6,8 +6,8 @@
 - 🌍 Exploring the application of Data Analysis in different applications 🌐📈
 - 📚 Lifelong learner on a quest for knowledge and innovation 🧠🔍
 - 📌 Open to collaboration and always eager to connect with fellow tech enthusiasts 🤝🚀
-📧 Let's chat https://beacons.ai/cpgarcia518
-🌟 Check out my latest projects below! ⬇️👇
+- 📧 Let's chat https://beacons.ai/cpgarcia518
+- 🌟 Check out my latest projects below! ⬇️👇
 
 <!---
 cpgarcia518/cpgarcia518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
