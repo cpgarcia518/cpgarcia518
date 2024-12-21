@@ -1,13 +1,26 @@
-- 👋 Hi, I’m @cpgarcia518
-- 👨‍🎓 PhD Student at the University of Bologna
-- 🌱 Specialist in ```Data Analysis``` for Indoor Environmental Controls of Farm Structures
-- 📊 Turning data into insights to optimize agricultural sustainability 🌾🌿
-- 💡 Passionate about harnessing technology to improve farming practices 🚜🌱
-- 🌍 Exploring the application of Data Analysis in different applications 🌐📈
-- 📚 Lifelong learner on a quest for knowledge and innovation 🧠🔍
-- 📌 Open to collaboration and always eager to connect with fellow tech enthusiasts 🤝🚀
-- 📧 Let's chat https://beacons.ai/cpgarcia518
-- 🌟 Check out my latest projects below! ⬇️👇
+# Hi, I'm @cpgarcia518!
+
+Welcome to my GitHub profile! I'm a ```Data Analysis``` who loves exploring and solving real-world problems through code. Below, you'll find details about my work and interests.
+
+## 🚀 Projects
+- **[Project 1](https://github.com/cpgarcia518/project1):** Brief summary of what this project does.
+
+Feel free to check out the repositories for a closer look at the code and detailed instructions on how to use them.
+
+## 💻 Tech Stack
+- **Languages:** Python
+- **Frameworks/Libraries:** React, Node.js, Express, Django, Flask
+- **Databases:** MySQL, PostgreSQL, MongoDB, InfluxDB
+- **Tools & Platforms:** Git, Docker, AWS, Azure, GitHub Actions
+
+## 🌱 Current Focus
+- Exploring DevOps practices and containerization tools.
+
+## 📫 Contact
+- **Email:** [cpgarcia518@example.com](mailto:cpgarcia518@example.com)
+- **LinkedIn:** [linkedin.com/in/cpgarcia518](https://linkedin.com/in/cpgarcia518)
+
+Thanks for visiting my profile, and feel free to reach out if you want to connect or collaborate!
 
 <!---
 cpgarcia518/cpgarcia518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
