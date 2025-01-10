@@ -22,7 +22,13 @@ Feel free to check out the repositories for a closer look at the code and detail
 
 ## ☕ Support Me
 
-[![Buy Me a Coffee](./buymeacoffee.png)](https://www.buymeacoffee.com/cpgarcia518)
+<div align="left">
+    <a href="https://www.buymeacoffee.com/cpgarcia518" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" 
+             alt="Buy Me A Coffee" 
+             style="height: 50px; width: 200px;">
+    </a>
+</div>
 
 Thanks for visiting my profile, and feel free to reach out if you want to connect or collaborate!
 
