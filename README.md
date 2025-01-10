@@ -20,6 +20,10 @@ Feel free to check out the repositories for a closer look at the code and detail
 - **Email:** [cpgarcia518@example.com](mailto:cpgarcia518@example.com)
 - **LinkedIn:** [linkedin.com/in/cpgarcia518](https://linkedin.com/in/cpgarcia518)
 
+## ☕ Support Me
+
+[![Buy Me a Coffee](./buymeacoffee.png)](https://www.buymeacoffee.com/cpgarcia518)
+
 Thanks for visiting my profile, and feel free to reach out if you want to connect or collaborate!
 
 <!---
