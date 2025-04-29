@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a ```Data Analysis``` who loves exploring and solving real-world problems through code. Below, you'll find details about my work and interests.
 
 ## 🚀 Projects
-- **[Project 1](https://github.com/cpgarcia518/project1):** Brief summary of what this project does.
+- **[DevOps](https://github.com/cpgarcia518/iot-monitoring):** Brief summary of what this project does.
 
 Feel free to check out the repositories for a closer look at the code and detailed instructions on how to use them.
 
