@@ -8,7 +8,6 @@ MLOps / DevOps Engineer and Data Analyst
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-TimeSeries-22ADF6?style=flat&logo=influxdb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=flat&logo=python&logoColor=white)
 
 
 I design and build reproducible ML pipelines, cloud-native infrastructure, and automated data systems that bridge experimentation and production environments. My work focuses on automation, infrastructure as code, containerization, and scalable data workflows.
