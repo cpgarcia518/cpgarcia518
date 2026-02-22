@@ -1,20 +1,52 @@
-# Hi, I'm @cpgarcia518!
+# Carlos Alejandro Perez Garcia
 
-Welcome to my GitHub profile! I'm a ```Data Analysis``` who loves exploring and solving real-world problems through code. Below, you'll find details about my work and interests.
+MLOps / DevOps Engineer and Data Analyst
 
-## 🚀 Projects
-- **[DevOps](https://github.com/cpgarcia518/iot-monitoring):** Brief summary of what this project does.
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-TimeSeries-22ADF6?style=flat&logo=influxdb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=flat&logo=python&logoColor=white)
 
-Feel free to check out the repositories for a closer look at the code and detailed instructions on how to use them.
 
-## 💻 Tech Stack
-- **Languages:** Python
-- **Frameworks/Libraries:** React, Node.js, Express, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB, InfluxDB
-- **Tools & Platforms:** Git, Docker, AWS, Azure, GitHub Actions
+I design and build reproducible ML pipelines, cloud-native infrastructure, and automated data systems that bridge experimentation and production environments. My work focuses on automation, infrastructure as code, containerization, and scalable data workflows.
 
-## 🌱 Current Focus
-- Exploring DevOps practices and containerization tools.
+---
+
+## Selected Project
+
+### IoT Monitoring Platform
+Containerized monitoring system for time-series data.
+
+- Docker-based architecture
+- CI/CD with GitHub Actions
+- InfluxDB for time-series storage
+- Automated deployment workflows
+
+---
+
+## 💻 Core Stack
+
+Cloud & Infrastructure  
+AWS · Azure · Terraform · Docker · Kubernetes · GitHub Actions  
+
+Data & ML  
+Python · PostgreSQL · MySQL · MongoDB · InfluxDB  
+
+Systems  
+Linux · Bash · Automation scripting  
+
+---
+
+## Current Focus
+
+- Production-grade Kubernetes environments  
+- Scalable ML infrastructure  
+- Cloud architecture patterns  
+
+---
 
 ## 📫 Contact
 - **Email:** [cpgarcia518@example.com](mailto:cpgarcia518@example.com)
@@ -31,8 +63,3 @@ Feel free to check out the repositories for a closer look at the code and detail
 </div>
 
 Thanks for visiting my profile, and feel free to reach out if you want to connect or collaborate!
-
-<!---
-cpgarcia518/cpgarcia518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
