@@ -51,14 +51,4 @@ Linux · Bash · Automation scripting
 - **Email:** [cpgarcia518@example.com](mailto:cpgarcia518@example.com)
 - **LinkedIn:** [linkedin.com/in/cpgarcia518](https://linkedin.com/in/cpgarcia518)
 
-## ☕ Support Me
-
-<div align="left">
-    <a href="https://www.buymeacoffee.com/cpgarcia518" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" 
-             alt="Buy Me A Coffee" 
-             style="height: 50px; width: 200px;">
-    </a>
-</div>
-
 Thanks for visiting my profile, and feel free to reach out if you want to connect or collaborate!
